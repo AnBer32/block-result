@@ -2,7 +2,7 @@
 //длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, 
 //либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
-string[] input = new string[] {"hello", "wow", "yes", "441", "B777"};
+string[] input = new string[4] {"Rock", "Lion", "Cat", "441"};
 string[] output = new string[input.Length];
 
 void NewArray(string[] input, string[] output)
